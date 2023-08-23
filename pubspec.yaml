@@ -15,7 +15,7 @@ dependencies:
   fraction: ^5.0.0 # to show crop ratio in crop view
   wechat_assets_picker: ^8.6.1
   provider: ^6.0.5 # match with wechat_assets_picker package
-  extended_image: ^8.0.1 # match with wechat_assets_picker package
+  extended_image: ^8.1.0 # match with wechat_assets_picker package
 
 dev_dependencies:
   flutter_test:
